@@ -1,0 +1,35 @@
+{
+    "name": "ajaxOnly",
+    "title": "ajaxOnly",
+    "description": "jQuery plugin to upgrade ajax implementation",
+    "keywords": [
+        "ajax",
+        "jsonp",
+		"xhr"
+    ],
+    "version": "2.1.1",
+    "author": {
+        "name": "Stephen Kraushaar",
+        "url": "https://github.com/FesterCluck/jquery.ajaxOnly/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "Stephen Kraushaar",
+            "email": "skraushaar@gmail.com",
+            "url": "http://nova-initia.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+            "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+        }
+    ],
+    "bugs": "https://github.com/FesterCluck/jquery.ajaxOnly/issues",
+    "homepage": "https://github.com/FesterCluck/jquery.ajaxOnly/",
+    "docs": "https://github.com/FesterCluck/jquery.ajaxOnly/",
+    "download": "https://github.com/FesterCluck/jquery.ajaxOnly/",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
